@@ -22,7 +22,7 @@ export default class Header extends Component {
 
                     <div className="row banner">
                         <div className="banner-text">
-                            <img src="../images/SCORTEA.PNG" alt="Trulli" width="500" height="333"></img>
+                            <img src="images/SCORTEA.PNG" alt="logo" width="500" height="333"></img>
                             <h3 style={{color: '#fff', fontFamily: 'Dejavu Sans ', fontWeight: 'bold'}}> NE JETEZ PLUS
                                 VOS PEAUX D’ORANGES,
                             </h3>

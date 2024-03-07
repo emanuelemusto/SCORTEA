@@ -1,5 +1,6 @@
 {
-  "name": "resume",
+  "name": "scortea",
+  "homepage": "https://emanuelemusto.github.io/SCORTEA",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,6 +27,5 @@
   ],
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  },
-  "homepage": "https://emanuelemusto.github.io/SCORTEA/"
+  }
 }

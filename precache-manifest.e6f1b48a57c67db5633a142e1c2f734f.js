@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "22934694e02c2084f120",
+    "revision": "ec4cc8363f68cd66551c",
     "url": "/scortea/static/css/main.79b32c72.chunk.css"
   },
   {
-    "revision": "22934694e02c2084f120",
-    "url": "/scortea/static/js/main.22934694.chunk.js"
+    "revision": "ec4cc8363f68cd66551c",
+    "url": "/scortea/static/js/main.ec4cc836.chunk.js"
   },
   {
     "revision": "6eb6405c9d99258624bc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/scortea/static/js/runtime~main.ab853f43.js"
   },
   {
-    "revision": "49a06056c0033a340dddb5cea3264623",
+    "revision": "56215a7506ff27b2be39afc0b98ee105",
     "url": "/scortea/index.html"
   }
 ];

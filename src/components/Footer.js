@@ -12,7 +12,7 @@ export default class Footer extends Component {
                         <div className="twelve columns">
                             <ul className="social-links">
                                 <li>
-                                    <a href="elisa.pregaldiny@etu.umontpellier.fr">
+                                    <a href="mailto:elisa.pregaldiny@etu.umontpellier.fr">
                                         <i className="fa fa-envelope"/>
                                     </a>
                                 </li>

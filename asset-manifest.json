@@ -1,13 +1,13 @@
 {
   "main.css": "/scortea/static/css/main.79b32c72.chunk.css",
-  "main.js": "/scortea/static/js/main.ec4cc836.chunk.js",
-  "main.js.map": "/scortea/static/js/main.ec4cc836.chunk.js.map",
+  "main.js": "/scortea/static/js/main.c7f800e5.chunk.js",
+  "main.js.map": "/scortea/static/js/main.c7f800e5.chunk.js.map",
   "static/js/1.6eb6405c.chunk.js": "/scortea/static/js/1.6eb6405c.chunk.js",
   "static/js/1.6eb6405c.chunk.js.map": "/scortea/static/js/1.6eb6405c.chunk.js.map",
   "runtime~main.js": "/scortea/static/js/runtime~main.ab853f43.js",
   "runtime~main.js.map": "/scortea/static/js/runtime~main.ab853f43.js.map",
   "static/css/main.79b32c72.chunk.css.map": "/scortea/static/css/main.79b32c72.chunk.css.map",
   "index.html": "/scortea/index.html",
-  "precache-manifest.e6f1b48a57c67db5633a142e1c2f734f.js": "/scortea/precache-manifest.e6f1b48a57c67db5633a142e1c2f734f.js",
+  "precache-manifest.bc289b23ef13bc994c04983e68288551.js": "/scortea/precache-manifest.bc289b23ef13bc994c04983e68288551.js",
   "service-worker.js": "/scortea/service-worker.js"
 }
